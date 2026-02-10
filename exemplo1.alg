@@ -7,9 +7,9 @@ programa
  
   
 
-    A = 4
-    B = -2
-    C = A + B
+    A <- 4
+    B <- -2
+    C <- A + B
 
     se (C > 0) 
     {
